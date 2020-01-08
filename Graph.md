@@ -1,7 +1,7 @@
 # Graph Problems
 
 
-## 221. Longest Palindromic Substring
+## 221. Maximal Square
 Better DP solution
 ```
 class Solution {
